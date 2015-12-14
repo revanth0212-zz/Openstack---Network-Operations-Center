@@ -28,6 +28,7 @@ This is a web services application which does the polling work and sends it back
 
 * revanth0212@gmail.com
 * pranjal.patni09@gmail.com
+* wudi.hust@gmail.com
 
 
 ### Who should take credit for the project? ###
